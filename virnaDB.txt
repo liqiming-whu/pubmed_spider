@@ -1,0 +1,53 @@
+pubmed_id    virus    host    time    treatment    data    year
+28207896    CHIKV    lymph nodes    2/7/30d    null    RNA-Seq    Sci.2017
+20929547    EBV    B-lymphocytes    null    null    ChIP-Seq    Virol J.2010
+21496352    HIV-1    CD4+ T cells    null    null    ChIP-Seq    Virol J.2011
+22163334    HzSNPV    Heliothis virescens    null    null    RNA-Seq    Viruses.2011
+22163348    Lepidoptera virus    IPLB-Ld652Y    null    null    EST-Seq    Viruses.2011
+22590687    HCV    Huh7.5 cells    6/48/72h    null    RNA-Seq    Viruses.2012
+22952684    M-CMV    Nicotiana tabacum cv.Xanthi nc    null    null    RNA-Seq    PLoS One.2012
+23701839    PBCV-1    NC64A    <=60min    null    RNA-Seq    Virology. 2013
+23777870    NLHV-1    planthopper cells    null    null    RNA-Seq    Virus Res.2013
+23881275    WNV    macrophages    null    null    RNA-Seq    Viruses.2013
+23953230    HPV    HeLa    null    null    RNA-Seq    Virology.2013
+24220146    Norovirus    Epithelial Cells    null    null    RNA-Seq    Virol J.2013
+24468291    AAV    null    null    null    IC-Seq    Virol J.2014
+24497828    VZV    planthopper cells    null    null    RNA-Seq    PLoS Pathog.2014
+24505295    PRRSV    Mcapital EF,Cyrillics    null    null    RNA-Seq    PLoS Pathog.2014
+24505321    HEV    Huh-7 cells    null    null    RNA-Seq    PLoS Pathog.2014
+24522918    EBV    MutuI cells    null    null    ChIP-Seq    J Virol.2014
+24524215    MCDV,MFSV    Graminella nigrifrons Forbes cells    4h/7d    null    RNA-Seq    BMC Genomics.2014
+24570473    H5N3 HIV    lungs and trachea cells    4d    null    DESeq    Poult Sci.2014
+24608750    PBCV-1    NC64A    7/20/60min    null    mRNA-Seq    PLoS One.2014
+24636995    HIV    Jurkat T cells    null    null    ChIP-Seq    Mol Cell Biol.2014
+24642186    FIV     Feline T cells    24h    null    RNA-Seq    Virol J.2014
+24643046    PRRSV    PAMS    12h    null    RNA-Seq    PLoS One.2014
+26087404    KHV    WBC    null    null    RNA-Seq    Virus Res.2015
+26473290    VZV    HGPS fibroblasts    null    null    RNA-Seq    Oncotarget.2015
+26792742    VEEV    U87MG cells    4/8/16h    null    RNA-Seq    J Virol.2016
+27060091    CVA16    rhabdomyosarcoma cells    null    null    RNA-Seq    Virol Sin.2016
+27110808    SAV-3    TO-cells    null    null    RNA-Seq/qRT-PCR    Viruses.2016
+27496175    HSV-1    HFF cells    null    null    RNA-Seq    Virol J.2016
+27770381    SeMNPV    P8-Se301-C1    null    null    RNA-Seq/RT-PCR/5'3'RACE    Virol Sin.2016
+27835811    TSWV    thrips cells    null    null    RNA-Seq    Virology.2017
+27912765    RSV    Arabidopsis thaliana    14/21d    null    RNA-Seq    Virol J. 2016
+28108340    VHSV    olive flounder kidneys    1/3/7d    null    RNA-Seq    Fish Shellfish Immunol.2017
+28259172    EMCV    BHK-21 cells    12/24/30d     null    RNA-Seq    Virol J.2017
+28280747    VACV    L929 cells    null    null     RNA-Seq    J Immunol Res.2017
+28410454    MDV    skin tissues cells    10/20/30d    null    RNA-Seq    Viral Immunol.2017
+28486945    IBDV    null    1/3d    null    RNA-Seq    Virol J.2017
+28698046    SVV    lavage-resident T cells    null    null    RNA-Seq    Virus Res.2017
+28806616    B19V    human CD36+ EPCs    null    null    IC-Seq    Virology.2017
+28903751    DPV    duck spleens cells    24h    null    RNA-Seq    Vet Res.2017
+29116029    ZIKV    hNPCs    null    null    RNA-Seq    Virol J.2017
+29162488    ALV    thymuses cells    5/13/21d    null    RNA-Seq    Virus Res.2018
+29408034    FAdV-4    LMH cells    12/24/48h    null    RNA-Seq    Vet Microbiol.2018
+29601508    NDV    CEFs    null    null    RNA-Seq    Viruses.2018
+29608426    ZIKV    human fetal neural stem cells    null    null    RNA-Seq    Viral Immunol.2018
+29997306    FMDV    PK-15    null    null    RNA-Seq/qRT-PCR    Viruses.2018
+30389043    PCV2    porcine epithelial cells    null    null    RNA-Seq    Vet Microbiol.2018
+30400182    MARV    ERB cells    null    null    RNA-Seq    Viruses.2018
+30428392    RGNNV    DLB-1 cells    null    null    RNA-Seq    Fish Shellfish Immunol.2019
+30530648    DENV    PBMCs    null    null    viscRNA-Seq    Proc Natl Acad Sci.2018
+30621044    HBoV1    HAE cells    null    null    RNA-Seq    Viruses.2019
+31102141    BVDV    ICC    null    null    qRT-PCR/RNA-Seq    Vet Res Commun.2019
