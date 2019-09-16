@@ -3,7 +3,7 @@ import re
 
 path1 = "d:/pubmed_data/seq/"
 path2 = "d:/pubmed_data/select/"
-
+#  反面教材.py
 
 for filename in os.listdir(path1):
     print(path1 + filename)
